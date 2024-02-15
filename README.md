@@ -5,7 +5,7 @@
 [Monitoria]: <https://www.icloud.com/numbers/0142PvlEw-sR0vCFRJRWTU24Q#Monitores> "Monitoria"  
 [Prova de Suficiência (inscrição)]: <https://forms.office.com/r/3BD3DgMu8L> "Prova de Suficiência (inscrição)"
 
-# Disciplina de Introdução à Programação
+# Disciplina de Introdução à Programação E - CMP.0166.00.006-3 - X_PSPS_PR
 
 Olá, seja bem vindo .. 😁  
 
