@@ -1,6 +1,6 @@
 <!-- [@]TODO:INICIO atualizar -->
-[AVA3]: <https://ava3.furb.br/course/view.php?id=36814&section=0> "AVA3"  
-[Plano de Ensino]: <https://ava3.furb.br/course/view.php?id=36814&section=1> "Plano de Ensino"  
+[AVA3]: <https://ava3.furb.br/course/view.php?id=40877&section=0> "AVA3 - Aulas"  
+[Plano de Ensino]: <https://ava3.furb.br/course/view.php?id=40877&section=1> "AVA3 - Plano de Ensino"  
 [Cronograma]: <./cronograma.md> "Cronograma"  
 [Monitoria]: <https://www.icloud.com/numbers/0142PvlEw-sR0vCFRJRWTU24Q#Monitores> "Monitoria"  
 [Prova de Suficiência (inscrição)]: <https://forms.office.com/r/3BD3DgMu8L> "Prova de Suficiência (inscrição)"
