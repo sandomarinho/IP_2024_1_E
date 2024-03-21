@@ -8,7 +8,7 @@ Bom, agora vocês devem acessar o link
 
 <!-- [ ] INICIO atualizar - Link da disciplina -->
 
-[https://www.urionlinejudge.com.br/judge/en/disciplines/join/12277](<https://www.urionlinejudge.com.br/judge/en/disciplines/join/12277> "https://www.urionlinejudge.com.br/judge/en/disciplines/join/12277")  
+[https://judge.beecrowd.com/pt/disciplines/join/12277](<https://judge.beecrowd.com/pt/disciplines/join/12277> "https://judge.beecrowd.com/pt/disciplines/join/12277")  
 
 <!-- [ ] INICIO atualizar - Nome da Disciplina -->
 para criar uma conta e se inscreverem na disciplina criada dentro do URI. A disciplina tem o nome: **IP_2024_1_E**.  
