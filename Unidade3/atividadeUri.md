@@ -2,6 +2,8 @@
 
 Olá, agora a atividade desta unidade será utilizar o URI para praticar a interpretação de enunciados e descrição dos algoritmos usando a linguagem Java na IDE VSCode para serem validadas no URI.  
 
+Para criar uma conta no URI use: <https://judge.beecrowd.com/pt/register>  
+
 Bom, agora vocês devem acessar o link  
 
 <!-- [ ] INICIO atualizar - Link da disciplina -->
