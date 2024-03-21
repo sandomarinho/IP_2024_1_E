@@ -7,7 +7,7 @@ Para criar uma conta no URI use: <https://judge.beecrowd.com/pt/register>
 Bom, agora vocês devem acessar o link  
 
 <!-- [ ] INICIO atualizar - Link da disciplina -->
-[https://academic.beecrowd.com/pt/disciplines/view/12276](<https://academic.beecrowd.com/pt/disciplines/view/12276> "https://academic.beecrowd.com/pt/disciplines/view/12276")  
+[https://judge.beecrowd.com/pt/disciplines/view/12276](<https://judge.beecrowd.com/pt/disciplines/view/12276> "https://judge.beecrowd.com/pt/disciplines/view/12276")  
 
 <!-- [ ] INICIO atualizar - Nome da Disciplina -->
 para criar uma conta e se inscreverem na disciplina criada dentro do URI. A disciplina tem o nome: **IP_2024_1_D**.  
