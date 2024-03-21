@@ -8,13 +8,13 @@ Bom, agora vocês devem acessar o link
 
 <!-- [ ] INICIO atualizar - Link da disciplina -->
 
-[https://www.urionlinejudge.com.br/judge/en/disciplines/join/12276](<https://www.urionlinejudge.com.br/judge/en/disciplines/join/12276> "https://www.urionlinejudge.com.br/judge/en/disciplines/join/12276")  
+[https://www.urionlinejudge.com.br/judge/en/disciplines/join/12277](<https://www.urionlinejudge.com.br/judge/en/disciplines/join/12277> "https://www.urionlinejudge.com.br/judge/en/disciplines/join/12277")  
 
 <!-- [ ] INICIO atualizar - Nome da Disciplina -->
-para criar uma conta e se inscreverem na disciplina criada dentro do URI. A disciplina tem o nome: **IP_2024_1_D**.  
+para criar uma conta e se inscreverem na disciplina criada dentro do URI. A disciplina tem o nome: **IP_2024_1_E**.  
 
 <!-- [ ] INICIO atualizar - Token da Disciplina -->
-Assim que acessar a disciplina informe a seguinte chave de acesso (token): DOthNj7  
+Assim que acessar a disciplina informe a seguinte chave de acesso (token): eFbccXS  
 
 Mas ATENÇÃO, usem o e-mail da FURB (seuLogin @ furb . br) para criar a conta de vocês, e aonde for pedido para preencher o seu nome coloque o seu nome correto e completo.  
 
