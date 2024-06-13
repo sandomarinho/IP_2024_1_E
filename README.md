@@ -57,6 +57,6 @@ Algumas dúvidas que devem ser resolvidas com os conteúdos das unidades abaixo 
 
 ## [Unidade6](./Unidade6 "Unidade6")
 
-## [TrabalhoFinal](./TrabalhoFinal "TrabalhoFinal")
+## [TrabalhoFinal](./TrabalhoFinal.pdf "TrabalhoFinal.pdf")
 
 E, se conseguirmos chegar até aqui (ainda vivos)... então boas férias 😉
